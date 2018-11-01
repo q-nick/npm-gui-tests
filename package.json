@@ -1,0 +1,21 @@
+{
+  "name": "npm-gui-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q-nick/npm-gui-tests.git"
+  },
+  "author": "Paweł Stefański",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/q-nick/npm-gui-tests/issues"
+  },
+  "homepage": "https://github.com/q-nick/npm-gui-tests#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
